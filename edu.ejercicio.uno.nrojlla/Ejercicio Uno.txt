@@ -1,0 +1,29 @@
+﻿En el nombre y apellidos que se ponga debe existir al menos una a una r y el conjunto de letras arc.
+
+Desarrolla el programa con la arquitectura vista en clase:
+
+Pide un nombre, primer y segundo apellidos, 
+por consola y valida que el nombre no coincide con ninguno de los apellidos.
+
+Pide el dni por consola y valida que tiene un formato correcto: 
+en el enlace se explica como se calcula la letra de un dni para poder validarlo. 
+
+Pide el código postal por consola y valida que es de la ciudad de Sevilla:
+en el enlace tienes los códigos postales de Sevilla.
+
+Concatena el nombre y los apellidos en una sola variable
+de tipo string con el siguiente formato: "apellido1 apellido2, nombre."
+Separa la concatenación y guarda los apellidos unidos en una sola variable.
+
+Calcula el tamaño de la variable con el nombre completo.
+
+Recupera y muestra por consola el décimo carácter de la variable con los apellidos.
+
+Busca la primera vez que aparece la letra a en el nombre completo.
+
+Busca la primera vez que aparezca la letra r a partir de 
+la posición 3 y hasta la posición 10 en el nombre completo.
+
+Toma la variable nombre y guárdala en una nueva variable
+separando cada letra: Marcos -> M a r c o s
+Indica la posición del valor "arc" dentro del nombre completo.
